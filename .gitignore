@@ -1,3 +1,7 @@
+<<<<<< HEAD
 .DS-Store
 *.log
-/log
+=======
+.DS_Store
+*.log
+>>>>>>> sub1
